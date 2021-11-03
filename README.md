@@ -1,5 +1,3 @@
-
-
 ## Backend development workflow
 
 ```json
@@ -15,12 +13,3 @@ python manage.py runserver
 npm i
 npm start
 ```
-
-## For deploying
-
-```json
-npm run build
-```
-
----
-
